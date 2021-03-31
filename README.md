@@ -1,11 +1,12 @@
 #  Joint Adversarial Learning for Domain Adaptation in Semantic Segmentation (AAAI2020)
 A Pytorch Implementation of  [Joint Adversarial Learning for Domain Adaptation in Semantic Segmentation]((https://aaai.org/ojs/index.php/AAAI/article/view/6169)). 
 
-##Framework
+## Framework
 
 ![](figure/framework.png)
 
 ## Example Results
+
 ![](figure/example_results.png)
 ## Quantitave Results
 ![](figure/results.png)
