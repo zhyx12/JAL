@@ -12,7 +12,7 @@ A Pytorch Implementation of  [Joint Adversarial Learning for Domain Adaptation 
 ![](figure/results.png)
 
 ## Introduction
-Please follow [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0) respository to setup the environment. In this project, we use Pytorch 1.0.1 and CUDA version is 10.0.130. 
+In this project, we use Pytorch 1.1.0 and CUDA version is 10.0. 
 
 ## Datasets
 ### Datasets Preparation
